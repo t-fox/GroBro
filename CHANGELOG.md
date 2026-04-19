@@ -1,3 +1,8 @@
+## v2.4.1
+
+### Bug Fixes
++ NEXA: Increased Max Default Out Power to 1000 in case Power+ Function is activated
+
 ## v2.4.0
 
 ### New Features
