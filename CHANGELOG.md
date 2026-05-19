@@ -1,3 +1,8 @@
+## v2.7.6
+
+### Bug Fixes
++ NEXA: Increased Max Values to 1000 in case Power+ Function is activated
+
 ## v2.7.5
 
 ### Bug Fixes
